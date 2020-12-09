@@ -1,0 +1,8 @@
+{
+  "name": "burns-fluid-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "23a4ef57"
+}

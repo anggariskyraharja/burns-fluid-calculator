@@ -1,6 +1,6 @@
 {
-  "appId": "com.imedicalapps.burnsfluidcalculator",
-  "appName": "Burns Fluid Calculator",
+  "appId": "com.imedicalapps.burnsfluid",
+  "appName": "Burns Fluid",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "686862716909",
+    "project_id": "burns-fluid-calculator",
+    "storage_bucket": "burns-fluid-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686862716909:android:6b1950d359afb1009261e4",
+        "android_client_info": {
+          "package_name": "com.imedicalapps.burnsfluidcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686862716909-jkk8d3g7hgoj5l78g3ja2e1g7hokqgl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHDp-xgGJ6SQw-_wJmbUeXqygqNTCo-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686862716909-jkk8d3g7hgoj5l78g3ja2e1g7hokqgl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686862716909-betmf8eeh7m4s2q3e54br6hk925dkg2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imedicalaps.burnsfluid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
